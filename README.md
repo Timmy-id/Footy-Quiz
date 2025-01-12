@@ -27,5 +27,8 @@ Contributions are welcome! To contribute:
 
 5. Open a pull request.
 
+## **Authors**
+- [@timmy-id](https://github.com/Timmy-id)
+
 ## **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
